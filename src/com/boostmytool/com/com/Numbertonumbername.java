@@ -3,7 +3,7 @@ package com.boostmytool;
 import java.util.Scanner;
 
 
-public class Numbertonumbername {
+public class Number{
 
 
     public static void main(String[]args)
@@ -16,38 +16,38 @@ public class Numbertonumbername {
             System.out.println('enter the number');
         }
     if(number==0) {
-        System.out.println('zero');
+        System.out.println("zero");
     }
     else if(number==1) {
-        System.out.println('one');
+        System.out.println("one");
     }
     else if(number==2) {
-        System.out.println('two');
+        System.out.println("two" );
     }
     else if(number==3) {
-        System.out.println('three')
+        System.out.println("three")
     }
     else if(number==4) {
-        System.out.println('four');
+        System.out.println("four");
     }
     else if (number=5) {
-        System.out.println('five');
+        System.out.println("five");
     }
     else if (number=6) {
-        System.out.println('six');
+        System.out.println("six");
     }
     else if (number==7) {
-        System.out.println('seven');
+        System.out.println("seven");
     }
     else if (number==8) {
-        System.out.println('eight');
+        System.out.println("eight");
     }
     else if(number==9) {
-        System.out.println('nine');
+        System.out.println("nine");
     }
     else
         {
-            System.out.println('enter wrong no.')
+            System.out.println("enter wrong no.")
         }
 
 
