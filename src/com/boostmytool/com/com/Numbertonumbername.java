@@ -3,7 +3,7 @@ package com.boostmytool;
 import java.util.Scanner;
 
 
-public class Number{
+public class number{
 
 
     public static void main(String[]args)
